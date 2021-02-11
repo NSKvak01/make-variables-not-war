@@ -1,10 +1,3 @@
-# Make Variables Not War
-
-Now you'll be making many many variables. You will be so very able! (Sorry about that.)
-
-### Setup
-
-Welcome to your first test-based assignment! You're gonna love it once you get the hang of it.
 
 You'll:
 
@@ -45,5 +38,5 @@ This is because in the first example, if `x` changed value, `y` would continue t
 ### Tasks that use MATH
 
 - Create another variable called `mySum`. Set it equal to the result of three plus one thousand nine hundred eighteen plus twenty-four plus one. Calculate it in code!
-- Create another variable called `myProduct`. Set it equal to the result of two hundred thirty-two times forty-three divided by two plus four (the operations should be written in that order!). Calculate it in code!
+- Create another variable called `myProduct`. Set it equal to the result of two hundred thirty-two times forty-three divided by two plus four (the operations should be written in that order!
 - Create another variable called `heightAndAge`. Set it equal to the sum of your mental age and height. Calculate it in code!

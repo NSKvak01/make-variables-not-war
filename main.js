@@ -1,12 +1,17 @@
 /******************
  * YOUR CODE BELOW *
  ******************/
-
-
-
-
-
-
+let myFirstName = 'Nastya ';
+let myLastName = 'Kvak ';
+let myBestFriend = 'Vlad'
+let mySentence = myFirstName + myLastName + 'and ' + myBestFriend + ' are best friends.';
+let myFavoriteNum = 8;
+let myMentalAge = 30;
+let myHeight = 161;
+let myFavoriteYear = 2020;
+let mySum = 3 + 1918 + 24 + 1;
+let myProduct = 232* 43 / 2 + 4;
+let myHeightAndAge = myMentalAge + myHeight;
 
 /*********************************************************************************************************************
 
